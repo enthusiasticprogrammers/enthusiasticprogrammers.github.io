@@ -152,3 +152,27 @@ font-size: 84px;
 padding: 25px 35px;
 outline: 2px solid green;
 }
+/**
+	etc css
+**/
+.bg-front{
+width: 100%;
+padding: 40px 0px;
+background: #222;
+}
+.bg-front h1{
+font-family: arial, sans-serif;
+font-weight: 200;
+font-size: 64px;
+color: #fff;
+text-alignL center;
+display: block;
+}
+.list-contact li {
+background: #ddd;
+padding: 25px 15px;
+font-size: 28px;
+color: #222;
+font-family: arial, sans-serif;
+margin: 10px 0px;
+}
