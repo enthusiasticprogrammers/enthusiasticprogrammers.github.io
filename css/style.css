@@ -1,3 +1,7 @@
+body, html, wrapper {
+	/* important */
+	height: 100%;
+}
 .header{
 background: #ffffff;
 border: 20px solid #ffffff;
@@ -44,13 +48,14 @@ display: table;
 .mainbody{
 height: 425px;
 background: #222222 url('../images/mainbg.jpg') center center no-repeat;
- -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
 overflow: auto;
+min-height: 100%;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+background-repeat: no-repeat;
 color: #ffffff !important;
-
 }
 .maintext{
 color:#ffffff;
