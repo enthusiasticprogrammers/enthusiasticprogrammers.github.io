@@ -46,7 +46,8 @@
 
 			<p class="sub-text">Attend our next meeting! You may also sign up for our newsletter. Anyone is welcome to join.</p>
 			<br />
-			<div class="sign-up"> <a href="">Sign Up</a> </div>
+			<div class="sign-up"> <a id="inline" href="#signup">Sign Up</a> </div>
+			<div style="display:none"><div id="signup">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div></div>
 			</div>
 
 			</div>
@@ -126,6 +127,15 @@
 <link rel="stylesheet" href="js/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
 <script type="text/javascript" src="js/source/jquery.fancybox.pack.js?v=2.1.5"></script>
 
+<script>
+$(document).ready(function() {
+
+	$("a#signup").fancybox({
+		'hideOnContentClick': true
+	});
+
+});
+</script>
 
 </body>
 </html>
