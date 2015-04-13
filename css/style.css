@@ -122,10 +122,12 @@ width: 100%;
 padding: 15px 0px;
 background: #222;
 color: #ffffff;
+font-family: arial, san-serif;
 }
 .footer a{
 color: #ffffff;
 text-decoration: none;
+font-family: arial, san-serif;
 }
 .footer_links{
 float: right;
@@ -147,6 +149,7 @@ margin: 0px auto;
 color: #fff;
 text-decoration: none;
 text-align: center;
+font-family: arial, san-serif;
 }
 .sign-up a:hover{
 background: #222;
@@ -174,6 +177,7 @@ text-decoration: none;
 text-align: center;
 outline: 0;
 border: 0;
+font-family: arial, san-serif;
 }
 .button:hover{
 background: #222222;
