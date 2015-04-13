@@ -36,9 +36,8 @@ text-decoration: capitalize;
 border: 2px solid #fff;
 }
 .menu a:hover{
-background: green;
-color: #fff;
-border: 2px solid #ddd;
+color: #1FC833;
+border-bottom: 1px solid green;
 }
 .centered{
 width:960px;
