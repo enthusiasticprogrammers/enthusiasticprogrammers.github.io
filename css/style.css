@@ -207,6 +207,10 @@ font-family: arial, sans-serif;
 /**
 	etc css
 **/
+#twitter-widget-0{
+max-width: 980px !important;
+}
+
 .bg-front{
 width: 100%;
 padding: 40px 0px;
