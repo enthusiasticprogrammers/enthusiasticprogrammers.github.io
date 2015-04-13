@@ -2,6 +2,9 @@ body, html, wrapper {
 	/* important */
 	height: 100%;
 }
+body{
+font-family: arial, san-serif;
+}
 .header{
 background: #ffffff;
 border: 20px solid #ffffff;
