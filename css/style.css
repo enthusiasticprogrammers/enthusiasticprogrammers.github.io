@@ -3,7 +3,7 @@ body, html, wrapper {
 	height: 100%;
 }
 body{
-font-family: arial, san-serif;
+font-family: helvetica, san-serif;
 }
 .header{
 background: #ffffff;
@@ -30,7 +30,7 @@ font-size: 16px;
 color: #333;
 padding: 20px 10px;
 display: inline-block;
-font:  20px arial;
+font:  20px helvetica;
 text-decoration: none;
 text-decoration: capitalize;
 border: 2px solid #fff;
@@ -61,7 +61,7 @@ color: #ffffff !important;
 }
 .maintext{
 color:#ffffff;
-font: bold 48px arial; 
+font: bold 48px helvetica; 
 margin-top: 40px;
 }
 .main-subtext{
@@ -76,7 +76,7 @@ top: 200px;
 }
 .prompt{
 color: #fff;
-font: 18px arial, sans-serif;
+font: 18px helvetica, sans-serif;
 }
 .field_email{
 width: 500px;
@@ -88,7 +88,7 @@ background: #ffffff;
 }
 .subtext{
 color: #fff;
-font: 12px arial;
+font: 12px helvetica;
 }
 .under{
 padding: 25px 0px;
@@ -96,7 +96,7 @@ margin: 10px 0px;
 /*background: #ddd;*/
 }
 .featured{
-font: 32px arial;
+font: 32px helvetica;
 color: #333;
 text-align: center;
 padding: 25px;
@@ -109,7 +109,7 @@ width: 200px;
 margin: 5px;
 }
 .head-title{
-font: 36px arial;
+font: 36px helvetica;
 text-transform: capitalize;
 text-align: center;
 padding: 15px 0px;
@@ -122,12 +122,12 @@ width: 100%;
 padding: 15px 0px;
 background: #222;
 color: #ffffff;
-font-family: arial, san-serif;
+font-family: helvetica, san-serif;
 }
 .footer a{
 color: #ffffff;
 text-decoration: none;
-font-family: arial, san-serif;
+font-family: helvetica, san-serif;
 }
 .footer_links{
 float: right;
@@ -149,7 +149,7 @@ margin: 0px auto;
 color: #fff;
 text-decoration: none;
 text-align: center;
-font-family: arial, san-serif;
+font-family: helvetica, san-serif;
 }
 .sign-up a:hover{
 background: #222;
@@ -177,33 +177,33 @@ text-decoration: none;
 text-align: center;
 outline: 0;
 border: 0;
-font-family: arial, san-serif;
+font-family: helvetica, san-serif;
 }
 .button:hover{
 background: #222222;
 }
 #mc_embed_signup{
-font-family: arial, sans-serif;
+font-family: helvetica, sans-serif;
 }
 #mce-EMAIL{
 width: 300px;
 outline: 0;
 font-size: 36px;
-font-family: arial, sans-serif;
+font-family: helvetica, sans-serif;
 }
 #mce-FNAME{
 width: 300px;
 outline: 0;
 font-size: 36px;
 
-font-family: arial, sans-serif;
+font-family: helvetica, sans-serif;
 }
 #mce-LNAME{
 width: 300px;
 outline: 0;
 font-size: 36px;
 
-font-family: arial, sans-serif;
+font-family: helvetica, sans-serif;
 }
 /**
 	etc css
@@ -216,7 +216,7 @@ padding: 40px 0px;
 background: #222;
 }
 .bg-front h1{
-font-family: arial, sans-serif;
+font-family: helvetica, sans-serif;
 font-weight: 200;
 font-size: 64px;
 color: #fff;
@@ -228,6 +228,6 @@ background: #ddd;
 padding: 25px 15px;
 font-size: 28px;
 color: #222;
-font-family: arial, sans-serif;
+font-family: helvetica, sans-serif;
 margin: 10px 0px;
 }
