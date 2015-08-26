@@ -1,6 +1,22 @@
-body, html, wrapper {
-	/* important */
-	height: 100%;
+/************************************************
+	ENTH. PROG. CLUB CSS v1
+*************************************************/
+
+/*****  
+ Main Body
+********/
+* {
+    margin: 0;
+}
+html, body {
+    height: 100%;
+	
+}
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -4em;
 }
 body{
 font-family: helvetica, san-serif;
@@ -119,6 +135,15 @@ color: #333333;
 font-weight: 700;
 text-transform:uppercase;
 }
+
+/**********
+Footer
+************/
+
+.footer, .push {
+    height: 4em;
+}
+
 .footer {
 width: 100%;
 padding: 15px 0px;
